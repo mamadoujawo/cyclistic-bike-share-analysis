@@ -67,3 +67,9 @@ This repository includes the main materials used to complete the analysis:
 - **Excel Analysis:** Cleaned data preparation, Power Query workflow, PivotTables, and analytical summaries.
 - **Tableau Workbook:** Visualizations and dashboard used to explore rider behavior.
 - **Presentation:** Final PowerPoint and PDF presentation summarizing the analysis, key findings, and recommendations.
+
+## Interactive Dashboard
+
+Explore the interactive Tableau dashboard to view the full analysis and compare riding patterns between casual riders and annual members.
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/GoogleDataAnalyticsCertificateCapstone-CyclisticBike-ShareAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth)
