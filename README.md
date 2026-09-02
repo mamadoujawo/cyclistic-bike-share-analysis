@@ -4,6 +4,8 @@
 
 This case study analyzes 12 months of Cyclistic bike-share trip data (April 2020–March 2021) to understand how casual riders and annual members use the service differently. The goal is to identify data-driven insights that can support strategies for converting casual riders into annual members.
 
+![Cyclistic Bike-Share Analysis Dashboard](Dashboard%201.png)
+
 ### Tools Used
 - Microsoft Excel
 - Power Query
