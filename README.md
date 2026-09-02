@@ -66,7 +66,7 @@ Based on the analysis, Cyclistic could consider the following strategies:
 
 This repository includes the main materials used to complete the analysis:
 
-- **Excel Analysis:** Cleaned data preparation, Power Query workflow, PivotTables, and analytical summaries.
+- **Excel Analysis:** Data preparation, Power Query workflow, PivotTables, and analytical summaries were completed in Microsoft Excel. The full analysis workbook is not included in this repository due to its large file size.
 - **Tableau Workbook:** Visualizations and dashboard used to explore rider behavior.
 - **Presentation:** [PowerPoint](Cyclistic_Bike_Share_Analysis.pptx) | [PDF](Cyclistic_Bike_Share_Analysis.pdf) — Final presentation summarizing the analysis, key findings, and recommendations.
 
