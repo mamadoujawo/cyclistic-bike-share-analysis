@@ -68,7 +68,7 @@ This repository includes the main materials used to complete the analysis:
 
 - **Excel Analysis:** Cleaned data preparation, Power Query workflow, PivotTables, and analytical summaries.
 - **Tableau Workbook:** Visualizations and dashboard used to explore rider behavior.
-- **Presentation:** Final PowerPoint and PDF presentation summarizing the analysis, key findings, and recommendations.
+- **Presentation:** [PowerPoint](Cyclistic_Bike_Share_Analysis.pptx) | [PDF](Cyclistic_Bike_Share_Analysis.pdf) — Final presentation summarizing the analysis, key findings, and recommendations.
 
 ## Interactive Dashboard
 
